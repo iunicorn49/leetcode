@@ -1,6 +1,5 @@
 /**
- * LeetCode
- * 匹配重复子串
+ * LeetCode 459 重复子字符串
  */
 
 export default (str) => {
