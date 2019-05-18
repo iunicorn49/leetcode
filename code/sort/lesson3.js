@@ -1,5 +1,3 @@
-import { jsxNamespacedName, jsxIdentifier } from "@babel/types";
-
 /**
  * LeetCode 164 最大间距
  */
